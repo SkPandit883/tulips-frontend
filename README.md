@@ -19,11 +19,20 @@ npm install
 npm run dev
 ```
 
+
+
 ### Type-Check, Compile and Minify for Production
 
 ```sh
 npm run build
 ```
 # Tulips Frontend
+
+
+## use credentials
+
+username: admin
+
+password: admin@123
 
 ### for any difficulty in project setup ,email me [ skpandit659@gmail.com]
